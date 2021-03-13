@@ -5,6 +5,8 @@
     "target": "ES2018",
     "esModuleInterop": true,
     "moduleResolution": "node",
-    "outDir": "dist/es/"
+    "outDir": "dist/es/",
+    "declaration": true,
+    "declarationDir": "dist/types/"
   }
 }
