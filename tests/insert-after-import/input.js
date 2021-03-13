@@ -1,1 +1,3 @@
-const a = "foo";
+// FOO
+import bar from "bob";
+import "boof";
