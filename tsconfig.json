@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "target": "ES2018",
+    "esModuleInterop": true,
+    "outDir": "dist/cjs/",
+  },
+  "files": ["./src/index.ts"]
+}
