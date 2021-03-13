@@ -1,0 +1,2 @@
+import _foo from "foobar";
+import foo from "bar";

@@ -1,0 +1,2 @@
+import foo from "foobar";
+const a = "foo";

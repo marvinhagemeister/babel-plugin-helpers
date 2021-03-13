@@ -1,0 +1,2 @@
+import { foo } from "foobar";
+import { foo as bar } from "bar";

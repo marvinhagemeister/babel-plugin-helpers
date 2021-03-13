@@ -1,0 +1,2 @@
+import { foo as baz, foo as bar } from "foobar";
+const a = "foo";
